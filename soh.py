@@ -1,3 +1,2 @@
-my name is sohail
-and priya is my office crush
-cat soh.py
+print("App is running")
+print("2 + 3 =", 2 + 3)
